@@ -1,0 +1,58 @@
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\bin\Debug\access\db.accdb
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+W:\תלמידים תשעו\כיתות יב'\כיתה יב'4\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\access\db.accdb
+F:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\bin\Debug\access\db.accdb
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\נתנאל\Project\WindowsFormsApplication1\bin\Debug\Program.cs
+F:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\Program.cs
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Formworker.resources
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Item.resources
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sales.resources
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.menu.resources
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.reports.clients_report.resources
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.reports.sales_report.resources
+H:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\access\db.accdb
+H:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\Program.cs
+H:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\נתנאל\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Formworker.resources
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Item.resources
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.menu.resources
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.reports.clients_report.resources
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.reports.sales_report.resources
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sales.resources
+H:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.login.resources
+F:\נתנאל\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.menuworker.resources
